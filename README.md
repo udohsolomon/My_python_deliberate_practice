@@ -4,10 +4,9 @@ First of all, don't be afraid, read [Plateau of Productivity]. More importantly,
 
 ## Motivation
 
-I mainly use Matlab extensively during my PhD program for different purposes; to carry out simulation, data analyses and visualization
-[Language war] between Python and R is one of the most frequently discussed topics among the Data Scientists, and there doesn't seem to be a consensus on which one is better. Personally, I used both R and Python, but for very different purposes. I mainly use tidyverse packages (dplyr + ggplot2) to carry out data analyses and data visualization, while using Python for web scraping, task automations, and building [basic web applications in Flask]. 
+I mainly use Matlab extensively during my PhD program for different purposes; to carry out simulation, data analyses and visualization.
 
-By now, I have a pretty good working knowledge of Matlab. There are obviously many more things that I can learn - in particular building and maintaining matlab mudules as well as more [advanced Matlab materials]. Yet, the appeal of Python has always been there for me for a few reasons as I focus on machine learning and data science: 
+By now, I have a pretty good working knowledge of Matlab. There are obviously many more things that I can learn - in particular building and maintaining matlab mudules as well as more [advanced Matlab materials]. However, the appeal to Python has always been there for me for a few reasons as I focus on machine learning and data science: 
 
 * It's a general purpose programming language, so presumably it is a lot easier to learn good software engineering principles. (What are they though?)
 * Many of the [data stacks] are built using the tools in the Python ecosystem (ETL using Airflow, Front-end using Flask with RESTful API supports, Machine Learning using scikit-learn) - being able to use the same language for different parts of the data stack will bring prototypes closer to production.
@@ -170,7 +169,6 @@ Once mastered all the above, the next natural step is to create public work that
 [Plateau of Productivity]:http://pbpython.com/plateau-of-productivity.html
 
 [reddit answer]:https://www.reddit.com/r/Python/comments/2tkkxd/considering_putting_my_efforts_into_python/
-[Language war]:http://www.dataschool.io/python-or-r-for-data-science/
 [advanced R materials]:http://adv-r.had.co.nz/
 [basic web applications in Flask]:https://github.com/robert8138/flask-google-calendar-api-project
 [data stacks]:https://lab.getbase.com/productive-data-science-python/
@@ -250,4 +248,3 @@ Once mastered all the above, the next natural step is to create public work that
 [Josh Bloom's Python Computing For Data Science]:https://github.com/profjsb/python-seminar
 [Pandas Cookbook]:http://pandas.pydata.org/pandas-docs/stable/cookbook.html
 [Udemy course]:https://www.udemy.com/learning-python-for-data-analysis-and-visualization/?ccManual=&couponCode=DEAL19
-# python_deliberate_practice
