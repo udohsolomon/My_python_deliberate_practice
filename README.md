@@ -31,7 +31,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Targeted Practice**: If I force myself to switch over to Python for Data Analysis, Data visualization, Modeling, or contribute to open source Python Data Analysis packages, I can maximize my time practicing this skill, which is high leverage.
 
-* **Immediate Feedbacks**: The importance of feedback cannot be overemphsized. I have the  We have a culture of code reviews, both for IC work as well as internal package work. The former is harder because most DS on our team are in the R camp. There's also the weekly Python office hours that should be very useful. Find constant opportunities to get feedback as much as you can.
+* **Immediate Feedbacks**: The importance of feedback cannot be overemphsized. I have built the culture of constantly sending my codes to friends, my connections online for review, critique and feedback. Find constant opportunities to get feedback as much as you can.
 
 ## Performance Goals
 
