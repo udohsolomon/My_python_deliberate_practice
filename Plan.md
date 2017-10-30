@@ -6,7 +6,7 @@ I will give myself the remaining part of 2017 to work on this goal. It's only 8 
 
 ## Break Down Work Into A Day-by-day Schedule
 
-* **Da1**: Started watching [BIDS Python bootcamp] videos. An introduction to numrical computing in Python, list, dictionary, strings, numpy, slicing, repeating and slicing, arrays and reading/writing to disk. Finally ended the day practice with working on the [Hubway dataset]
+* **Day1**: Started watching [BIDS Python bootcamp] videos. An introduction to numrical computing in Python, list, dictionary, strings, numpy, slicing, repeating and slicing, arrays and reading/writing to disk. Finally ended the day practice with working on the [Hubway dataset]
 * **Day2**: Continued watching the BIDS Python bootcamp videos. Worked on the [Taxi pickups in NYC dataset]
 
 
