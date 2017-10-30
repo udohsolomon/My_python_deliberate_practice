@@ -98,9 +98,9 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Data Visualization**
 
-    * [BIDS: Python Bootcamp: Intro to Matplotlib]: The 800 pound gorilla, everything is customizable, but very low level
-    * [Seaborn]: Good for statistical visualization. I still find it a bit limited on the type of simple plots it can do
-    * [Bokeh]: Interactive, web browser base data visualization
+    * [BIDS: Python Bootcamp: Intro to Matplotlib] The 800 pound gorilla, everything is customizable, but very low level
+    * [Seaborn] Good for statistical visualization. I still find it a bit limited on the type of simple plots it can do
+    * [Bokeh] Interactive, web browser base data visualization
     * [A Dramatic Tour through Python’s Data Visualization Landscape (including ggplot and Altair)]
 
 * **Writing Object Oriented Programming Python Code**
