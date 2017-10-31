@@ -2,11 +2,13 @@
 
 First of all, don't be afraid, read [Plateau of Productivity]. More importantly, be patient, a good read from Peter Norvig, titled [Teach Yourself Programming in 10 years].
 
+"Researchers have shown it takes about ten years to develop expertise in any of a wide variety of areas, including chess playing, music composition, telegraph operation, painting, piano playing, swimming, tennis, and research in neuropsychology and topology. The key is deliberative practice: not just doing it again and again, but challenging yourself with a task that is just beyond your current ability, trying it, analyzing your performance while and after doing it, and correcting any mistakes. Then repeat. And repeat again. There appear to be no real shortcuts" - [Teach Yourself Programming in 10 years]
+
 ## Motivation
 
 I mainly use Matlab extensively during my PhD program for different purposes; to carry out simulation, data analyses and visualization.
 
-By now, I have a pretty good working knowledge of Matlab. There are obviously many more things that I can learn - in particular building and maintaining matlab mudules as well as more [advanced Matlab materials]. However, the appeal to Python has always been there for me for a few reasons as I focus on machine learning and data science: 
+By now, I have a pretty good working knowledge of Matlab. There are obviously many more things that I can learn - in particular building and maintaining matlab modules as well as more [advanced Matlab materials]. However, the appeal to Python has always been there for me for a few reasons as I focus on machine learning and data science: 
 
 * It's a general purpose programming language, so presumably it is a lot easier to learn good software engineering principles. (What are they though?)
 * Many of the [data stacks] are built using the tools in the Python ecosystem (ETL using Airflow, Front-end using Flask with RESTful API supports, Machine Learning using scikit-learn) - being able to use the same language for different parts of the data stack will bring prototypes closer to production.
@@ -167,9 +169,8 @@ Once mastered all the above, the next natural step is to create public work that
 
 [Teach Yourself Programming in 10 years]:http://norvig.com/21-days.html
 [Plateau of Productivity]:http://pbpython.com/plateau-of-productivity.html
-
+[advanced Matlab materials]:https://blogs.mathworks.com/loren/
 [reddit answer]:https://www.reddit.com/r/Python/comments/2tkkxd/considering_putting_my_efforts_into_python/
-[advanced R materials]:http://adv-r.had.co.nz/
 [basic web applications in Flask]:https://github.com/robert8138/flask-google-calendar-api-project
 [data stacks]:https://lab.getbase.com/productive-data-science-python/
 
