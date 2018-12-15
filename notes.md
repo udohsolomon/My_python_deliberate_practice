@@ -66,4 +66,4 @@
 
 
 [Deep work]: https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/0349411905/ref=cm_cr_arp_d_product_top?ie=UTF8
-[Peak]: https://www.audible.co.uk/pd/Peak-Audiobook/B01F4DZO2G?ref=a_lib_c4_libItem_0_B01F4DZO2G&pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=K4A0SFS7KHX90JTHVB21&
+[Peak]: https://www.amazon.co.uk/Peak-Secrets-New-Science-Expertise/dp/B01F4D6VEQ/ref=sr_1_3?ie=UTF8&qid=1544868109&sr=1-3&keywords=Peak+Secrets+from+the+New+Science+of+Expertise
