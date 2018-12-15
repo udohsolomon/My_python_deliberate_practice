@@ -46,7 +46,7 @@
 
 * Its crucial you figure out in advance what you are going to do with your day, week and weekends before they begin. Structure hobbies provide good patterns
 
-* if you want to eliminate the addictive pool of entertainment sites on your time and attention, give your brain and mind a quality alternative. Not only will this preserve the ability to resist distraction and concentrate but you might even fulfil other ambitious goals and tasks.
+* If you want to eliminate the addictive pool of entertainment sites on your time and attention, give your brain and mind a quality alternative. Not only will this preserve the ability to resist distraction and concentrate but you might even fulfil other ambitious goals and tasks.
 
 * Schedule Every Minute of Your Day
 
@@ -54,7 +54,7 @@
 
 * Be liberal with your use of task blocks. Deploy many throughout your day and make them longer than required. Loads of things not scheduled for come up during the day.
 
-* 
+* Quantifying the depth of every activity
 
 
 
@@ -63,5 +63,5 @@
 
 
 
-[Deep work]: https://www.audible.co.uk/pd/Deep-Work-Audiobook/B01D0E32T8?ref=a_lib_c4_libItem_1_B01D0E32T8&pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=K4A0SFS7KHX90JTHVB21&
+[Deep work]: https://www.amazon.com/product-reviews/0349411905/ref=cm_cr_getr_d_paging_btm_next_3?ie=UTF8&reviewerType=all_reviews&pageNumber=3
 [Peak]: https://www.audible.co.uk/pd/Peak-Audiobook/B01F4DZO2G?ref=a_lib_c4_libItem_0_B01F4DZO2G&pf_rd_p=4c1af09b-88bf-4c97-bfd2-e765f91b1968&pf_rd_r=K4A0SFS7KHX90JTHVB21&
