@@ -14,6 +14,9 @@
 * Deliberate practice is the systematic stretching of your ability for a given skill. It is the activity required to get better at something. Deep work and deliberate practice overlap substantially.
 
 * To succeed with deep work, we must constantly and deliberatly rewired our brains to be comfortable eliminate distracted stimuli 
+
+* Meditate productively 
+     - Productive meditation - A period in which you are occupied physically but not mentally, like walking, jugging, driving running etc and then focus your attention on a single well defined problem. This also requires practice to do well. Be wary of distraction and looping. Structure your deep thinking. Reviewing and storing variables, identifying and tackling the next step question and then consolidating your gains improve your ability to go deep.
      
 
 
