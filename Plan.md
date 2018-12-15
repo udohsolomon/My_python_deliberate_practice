@@ -1,3 +1,10 @@
+# Goals
+* Publish a blog post on Bayesian Optimization on Jan 1st, 2019
+
+* Complete the Algorithms and Data Structure course on Udacity by Jan 14th, 2019
+
+* Complete my teaching materials ** Problem Solving and Programming ** for the next block
+
 ## Estimate Time Required To Achieve Goal
 
 I will give myself the remaining part of 2018 and the first quarter of 2019 to work on this goal. It's only 2 weeks left until the end of 2018. 
