@@ -2,4 +2,4 @@
 
 * Focus on the widely important - 
 
-" The more you try to do, the less you actually accomplish"
+      " The more you try to do, the less you actually accomplish"
