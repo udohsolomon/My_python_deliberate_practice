@@ -1,8 +1,8 @@
 ## Estimate Time Required To Achieve Goal
 
-I will give myself the remaining part of 2017 to work on this goal. It's only 8 weeks left until the end of 2017. 
+I will give myself the remaining part of 2018 and the first quarter of 2019 to work on this goal. It's only 2 weeks left until the end of 2018. 
 
-**Timeframe**: One ongoing big project touching different stacks in Python by the end of 2017.
+**Timeframe**: One ongoing big project touching different stacks in Python by the end of 2018.
 
 ## Break Down Work Into A Day-by-day Schedule
 
@@ -10,5 +10,5 @@ I will give myself the remaining part of 2017 to work on this goal. It's only 8 
 * **Day2**: Continued watching the BIDS Python bootcamp videos. Worked on the [Taxi pickups in NYC dataset]
 
 
-[Software Development Skills For Data Scientists]: http://treycausey.com/software_dev_skills.html
+[BIDS Python bootcamp]: https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online
 [Pandas Plotting Documentation]:http://pandas.pydata.org/pandas-docs/version/0.18.1/visualization.html
