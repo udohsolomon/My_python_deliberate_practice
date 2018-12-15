@@ -3,7 +3,7 @@
 
 * Complete the [Algorithms Part 1] on Coursera by Jan 14th, 2019
 
-* Complete my teaching materials ** Problem Solving and Programming ** for the next block
+* Complete my teaching materials **Problem Solving and Programming** for the next block starting Jan 14th, 2019
 
 ## Estimate Time Required To Achieve Goal
 
