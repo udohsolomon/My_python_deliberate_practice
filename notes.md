@@ -56,6 +56,8 @@
 
 * Quantifying the depth of every activity
 
+* Finish your work by 5:30pm  Fixed schedule productivity
+
 
 
 
