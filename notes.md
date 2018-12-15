@@ -9,6 +9,10 @@
 * Shut down work thinking completely at the end of a work day 
      - Downtime aids insights
      - Downtime helps recharge the energy needed to work deeply
+     - The work that downtime replaces is usually not that important
+     
+* Deliberate practice is the systematic stretching of your ability for a given skill. It is the activity required to get better at something. Deep work and deliberate practice overlap substantially.
+     
 
 
 
