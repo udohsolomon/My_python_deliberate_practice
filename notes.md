@@ -8,6 +8,7 @@
 
 * Shut down work thinking completely at the end of a work day 
      - Downtime aids insights
+     - Downtime helps recharge the energy needed to work deeply
 
 
 
