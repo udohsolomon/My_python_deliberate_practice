@@ -31,10 +31,6 @@
 
 * Be comfortable being bored; idleness is essential to mental recovery
 
-* Schedule Every Minute of Your Day
-
-* If you’re not sure how long a given activity might take, block off the expected time, then follow this with an additional block that has a split purpose. If you need more time for the preceding activity, use this additional block to keep working on it. If you finish the activity on time, however, have an alternate use already assigned for the extra block
-
 * To succeed with deep work, we must constantly and deliberatly rewired our brains to be comfortable eliminate distracted stimuli 
 
 * Meditate productively 
@@ -43,10 +39,24 @@
 * The ability to concentrate intensely is a skill that must be trained.
 
 * Build a habit with a set starting time that you use every day for deep work
+
 * Map out when you’ll work deeply during each week at the beginning of the week, and then refine these decisions, as needed, at the beginning of each day
 
 * Deliberate practice: Start with an hour a day and build to three to four hours a day, five days a week, of uninterrupted and carefully directed concentration in combination with feedback so you can correct your approach
-     
+
+* Its crucial you figure out in advance what you are going to do with your day, week and weekends before they begin. Structure hobbies provide good patterns
+
+* if you want to eliminate the addictive pool of entertainment sites on your time and attention, give your brain and mind a quality alternative. Not only will this preserve the ability to resist distraction and concentrate but you might even fulfil other ambitious goals and tasks.
+
+* Schedule Every Minute of Your Day
+
+* If you’re not sure how long a given activity might take, block off the expected time, then follow this with an additional block that has a split purpose. If you need more time for the preceding activity, use this additional block to keep working on it. If you finish the activity on time, however, have an alternate use already assigned for the extra block.
+
+* Be liberal with your use of task blocks. Deploy many throughout your day and make them longer than required. Loads of things not scheduled for come up during the day.
+
+* 
+
+
 
 
 
