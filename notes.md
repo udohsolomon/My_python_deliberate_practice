@@ -6,7 +6,8 @@
 
 * Schedule deep valuable work time early each day
 
-* Shut down work thinking completely at the end of a work day
+* Shut down work thinking completely at the end of a work day 
+     - Downtime aids insights
 
 
 
