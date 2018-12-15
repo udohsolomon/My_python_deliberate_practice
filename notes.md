@@ -5,6 +5,10 @@
      
 * Act on the lead measures - Success needs to be measured
 
+* Schedule deep valuable work time early each day
+
+* Shut down work thinking completely at the end of a work day
+
 
 
 
