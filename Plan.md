@@ -1,5 +1,5 @@
 # Goals
-* Publish a blog post on Bayesian Optimization on Jan 1st, 2019
+* Publish a blog post on **Bayesian Optimization** by Jan 1st, 2019
 
 * Complete the [Algorithms Part 1] on Coursera by Jan 14th, 2019
 
