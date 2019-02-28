@@ -48,7 +48,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Curriculum**: I want do everything that I can to go through all the basic materials in Pandas/Matplotlib combo. Expose myself to functional programming, OOP, testing in Python, or even making command tools. Get feedbacks from experts.
 
-* **Timeframe**: Efficiency parity by end of December, 2017. One ongoing big project touching different stacks in Python by the end of 2017.
+* **Timeframe**: Efficiency parity by end of December, 2018. One ongoing big project touching different stacks in Python by the end of 2017.
 
 ## Project Milestones
 
@@ -133,7 +133,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
     * [BIDS: Python Bootcamp: Test Driven Development]
     * [Software Carpentry: Testing]
 
-## Next Steps / Level In 2017
+## Next Steps / Level In 2018
 
 Once mastered all the above, the next natural step is to create public work that other people can use so you can democratize your useful tool to others. A great introduction to how to get started is from Tim Hopper's talk, titled [Sharing Your Side Projects].
 
