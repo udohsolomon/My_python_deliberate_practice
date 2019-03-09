@@ -48,7 +48,7 @@ I am a huge believer in learning by doing, and there are a lot of opportunities 
 
 * **Curriculum**: I want do everything that I can to go through all the basic materials in Pandas/Matplotlib combo. Expose myself to functional programming, OOP, testing in Python, or even making command tools. Get feedbacks from experts.
 
-* **Timeframe**: Efficiency parity by end of December, 2018. One ongoing big project touching different stacks in Python by the end of 2017.
+* **Timeframe**: Efficiency parity by end of December, 2017. One ongoing big project touching different stacks in Python by the end of 2017.
 
 ## Project Milestones
 
