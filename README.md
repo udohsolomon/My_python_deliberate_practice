@@ -6,7 +6,7 @@ First of all, don't be afraid, read [Plateau of Productivity]. More importantly,
 
 ## Motivation
 
-I mainly used Matlab extensively during my PhD program for different purposes; to carry out simulation, data analyses and visualization.
+I mainly used Matlab during my PhD program for different purposes; to carry out simulation, data analyses and visualization.
 
 By now, I have a pretty good working knowledge of Matlab. There are obviously many more things that I can learn - in particular building and maintaining matlab modules as well as more [advanced Matlab materials]. However, the appeal to Python has always been there for me for a few reasons as I focus on machine learning and data science: 
 
